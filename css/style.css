@@ -1,0 +1,40 @@
+.hidden{
+    display: none;
+}
+
+.body{                                                 
+    height: 100vh;
+    background-size: cover;
+    background-repeat : no-repeat;
+}
+
+
+#clock{
+    text-align :center;
+}
+
+#login-form{
+    text-align :center;
+}
+
+#greeting{
+    text-align :center;
+}
+
+#todo-form{
+    text-align :center;
+}
+
+#todo-list{
+    list-style-type: none;
+    text-align: center;
+    
+}
+
+#quote{
+    text-align: center;
+}
+#weather{
+    text-align: center;
+}
+
