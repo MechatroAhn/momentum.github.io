@@ -8,6 +8,6 @@ bgImage.src=`img/${chosenImage}`;
 
 document.body.appendChild(bgImage);
 
-test = document.body.querySelector("img");
+// test = document.body.querySelector("img");
 
-test.classList.add("testBody");
+// test.classList.add("testBody");
